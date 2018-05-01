@@ -1,0 +1,21 @@
+state={
+	id=763
+	name="STATE_763"
+	history={
+		owner = CSA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 4
+
+		}
+		add_core_of = CSA
+
+	}
+	provinces={
+		801 3941 3975 4627 6850 6958 6971 7466 7588 7646 9923 10441 11888 
+	}
+	manpower=1721200
+	state_category=large_town
+	buildings_max_level_factor=1.000
+}

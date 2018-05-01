@@ -1,0 +1,13 @@
+﻿l_english:
+ CSA_fascism:0 "Confederate Racial State"
+ CSA_fascism_DEF:0 "the Confederate Racial State"
+ CSA_democratic:0 "Confederate Republic"
+ CSA_democratic_DEF:0 "the Confederate Republic"
+ CSA_neutrality:0 "Confederate States"
+ CSA_neutrality_DEF:0 "the Confederate States"
+ CSA_communism:0 "Confederate Workers Union"
+ CSA_communism_DEF:0 "the Confederate Workers Union"
+ CSA_fascism_ADJ:0 "Confederate"
+ CSA_democratic_ADJ:0 "Confederate"
+ CSA_neutrality_ADJ:0 "Confederate"
+ CSA_communism_ADJ:0 "Confederate"
